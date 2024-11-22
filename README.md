@@ -86,5 +86,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **Result:**
+The truth table of the specified logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR)
+ was successfully implemented and verified using Verilog programming in Quartus II.
 
 
